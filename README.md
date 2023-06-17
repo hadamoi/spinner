@@ -2,7 +2,7 @@
 Tap Rotate to rotate the arrow. </br>
 Reset allows you to start over.
 
-### ✔️ Things to remember
+#### ✔️ Things to remember
 ```
 const rotateArrow = () => {
   rotateValue = 720 + Math.ceil(Math.random() * 720);
