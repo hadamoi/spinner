@@ -1,5 +1,5 @@
 # 🌀 Spinner
-Tap Rotate to rotate the arrow. </br>
+Tap START to rotate the arrow. </br>
 Reset allows you to start over.
 
 #### ✔️ Things to remember
